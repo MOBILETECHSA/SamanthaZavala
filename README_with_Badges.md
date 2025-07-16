@@ -7,7 +7,7 @@
 
 Hi, I'm **Samantha Zavala** — a bilingual Health Informatics Specialist, phlebotomy trainer, and tech entrepreneur based in San Antonio, TX.
 
-🚀 I create accessible digital solutions through my brand **AllThingzTech360**, empowering small businesses, healthcare professionals, and single parents with:
+🚀 I create accessible digital solutions through my brand **AllThingzTech**, empowering small businesses, healthcare professionals, and single parents with:
 
 - 💻 Custom websites and automation tools  
 - 📊 Healthcare IT forms (EHR, LIS, SQL models)  
@@ -18,7 +18,7 @@ Hi, I'm **Samantha Zavala** — a bilingual Health Informatics Specialist, phleb
 Canva • HTML/CSS • GitHub Pages • SQL • WordPress • Shopify • Avatar NX • Percipio • Google Sites
 
 ### 🌐 Portfolio & Socials
-- Website: [allthingztech360.com](https://www.allthingztech360.com)  
+- Website: (https://allthingztech360.wordpress.com/)
 - Instagram: [@AllThingzTech360](https://www.instagram.com/allthingztech360)
 
 🌙 Here to share what I learn, help my neighbors, and spark ideas that build real-world impact.  
